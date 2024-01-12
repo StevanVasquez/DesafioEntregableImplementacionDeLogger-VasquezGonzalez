@@ -1,0 +1,7 @@
+[30mfatal[39m: Fatal level
+[31merror[39m: Error level
+[30mfatal[39m: GET en / - 12:49:15
+[31merror[39m: GET en / - 12:49:16
+[30mfatal[39m: Fatal level - GET en / - 12:53:42
+[31merror[39m: Error level - GET en / - 12:53:42
+[31merror[39m: Error in GET - ERROR ARTIFICIALMENTE LANZADO
